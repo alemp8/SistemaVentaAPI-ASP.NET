@@ -1,0 +1,15 @@
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Datos\bin\Debug\net8.0\SistemaVenta.Datos.deps.json
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Datos\bin\Debug\net8.0\SistemaVenta.Datos.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Datos\bin\Debug\net8.0\SistemaVenta.Datos.pdb
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Datos\obj\Debug\net8.0\SistemaVenta.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Datos\obj\Debug\net8.0\SistemaVenta.Datos.AssemblyInfoInputs.cache
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Datos\obj\Debug\net8.0\SistemaVenta.Datos.AssemblyInfo.cs
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Datos\obj\Debug\net8.0\SistemaVenta.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Datos\obj\Debug\net8.0\SistemaVenta.Datos.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Datos\obj\Debug\net8.0\refint\SistemaVenta.Datos.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Datos\obj\Debug\net8.0\SistemaVenta.Datos.pdb
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Datos\obj\Debug\net8.0\ref\SistemaVenta.Datos.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Datos\bin\Debug\net8.0\SistemaVenta.Modelos.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Datos\bin\Debug\net8.0\SistemaVenta.Modelos.pdb
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Datos\obj\Debug\net8.0\SistemaVenta.Datos.csproj.AssemblyReference.cache
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Datos\obj\Debug\net8.0\SistemaV.6B3BB724.Up2Date

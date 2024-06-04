@@ -1,0 +1,14 @@
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Modelos\bin\Debug\net8.0\SistemaVenta.Modelos.deps.json
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Modelos\bin\Debug\net8.0\SistemaVenta.Modelos.runtimeconfig.json
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Modelos\bin\Debug\net8.0\SistemaVenta.Modelos.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Modelos\bin\Debug\net8.0\SistemaVenta.Modelos.pdb
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Modelos\obj\Debug\net8.0\SistemaVenta.Modelos.csproj.AssemblyReference.cache
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Modelos\obj\Debug\net8.0\SistemaVenta.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Modelos\obj\Debug\net8.0\SistemaVenta.Modelos.AssemblyInfoInputs.cache
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Modelos\obj\Debug\net8.0\SistemaVenta.Modelos.AssemblyInfo.cs
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Modelos\obj\Debug\net8.0\SistemaVenta.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Modelos\obj\Debug\net8.0\SistemaVenta.Modelos.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Modelos\obj\Debug\net8.0\refint\SistemaVenta.Modelos.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Modelos\obj\Debug\net8.0\SistemaVenta.Modelos.pdb
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Modelos\obj\Debug\net8.0\SistemaVenta.Modelos.genruntimeconfig.cache
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.Modelos\obj\Debug\net8.0\ref\SistemaVenta.Modelos.dll

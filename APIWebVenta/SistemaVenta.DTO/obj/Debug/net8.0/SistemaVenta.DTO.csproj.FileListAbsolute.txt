@@ -1,0 +1,11 @@
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.DTO\bin\Debug\net8.0\SistemaVenta.DTO.deps.json
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.DTO\bin\Debug\net8.0\SistemaVenta.DTO.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.DTO\bin\Debug\net8.0\SistemaVenta.DTO.pdb
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.AssemblyInfoInputs.cache
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.AssemblyInfo.cs
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.DTO\obj\Debug\net8.0\refint\SistemaVenta.DTO.dll
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.pdb
+C:\Users\Victor Alejandro\Desktop\Proyectos NET\Sistema Ventas Web\APIWebVenta\SistemaVenta.DTO\obj\Debug\net8.0\ref\SistemaVenta.DTO.dll

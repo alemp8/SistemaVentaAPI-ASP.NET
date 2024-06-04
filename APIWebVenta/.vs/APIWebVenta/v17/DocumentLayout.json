@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Ventas Web\\APIWebVenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{930EA069-71CC-4217-990F-913CFFBC4646}|SistemaVenta.Negocio\\SistemaVenta.Negocio.csproj|c:\\users\\victor alejandro\\desktop\\proyectos net\\sistema ventas web\\apiwebventa\\sistemaventa.negocio\\servicios\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930EA069-71CC-4217-990F-913CFFBC4646}|SistemaVenta.Negocio\\SistemaVenta.Negocio.csproj|solutionrelative:sistemaventa.negocio\\servicios\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930EA069-71CC-4217-990F-913CFFBC4646}|SistemaVenta.Negocio\\SistemaVenta.Negocio.csproj|c:\\users\\victor alejandro\\desktop\\proyectos net\\sistema ventas web\\apiwebventa\\sistemaventa.negocio\\servicios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930EA069-71CC-4217-990F-913CFFBC4646}|SistemaVenta.Negocio\\SistemaVenta.Negocio.csproj|solutionrelative:sistemaventa.negocio\\servicios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930EA069-71CC-4217-990F-913CFFBC4646}|SistemaVenta.Negocio\\SistemaVenta.Negocio.csproj|c:\\users\\victor alejandro\\desktop\\proyectos net\\sistema ventas web\\apiwebventa\\sistemaventa.negocio\\servicios\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930EA069-71CC-4217-990F-913CFFBC4646}|SistemaVenta.Negocio\\SistemaVenta.Negocio.csproj|solutionrelative:sistemaventa.negocio\\servicios\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930EA069-71CC-4217-990F-913CFFBC4646}|SistemaVenta.Negocio\\SistemaVenta.Negocio.csproj|c:\\users\\victor alejandro\\desktop\\proyectos net\\sistema ventas web\\apiwebventa\\sistemaventa.negocio\\servicios\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930EA069-71CC-4217-990F-913CFFBC4646}|SistemaVenta.Negocio\\SistemaVenta.Negocio.csproj|solutionrelative:sistemaventa.negocio\\servicios\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930EA069-71CC-4217-990F-913CFFBC4646}|SistemaVenta.Negocio\\SistemaVenta.Negocio.csproj|c:\\users\\victor alejandro\\desktop\\proyectos net\\sistema ventas web\\apiwebventa\\sistemaventa.negocio\\servicios\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930EA069-71CC-4217-990F-913CFFBC4646}|SistemaVenta.Negocio\\SistemaVenta.Negocio.csproj|solutionrelative:sistemaventa.negocio\\servicios\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930EA069-71CC-4217-990F-913CFFBC4646}|SistemaVenta.Negocio\\SistemaVenta.Negocio.csproj|c:\\users\\victor alejandro\\desktop\\proyectos net\\sistema ventas web\\apiwebventa\\sistemaventa.negocio\\servicios\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930EA069-71CC-4217-990F-913CFFBC4646}|SistemaVenta.Negocio\\SistemaVenta.Negocio.csproj|solutionrelative:sistemaventa.negocio\\servicios\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930EA069-71CC-4217-990F-913CFFBC4646}|SistemaVenta.Negocio\\SistemaVenta.Negocio.csproj|c:\\users\\victor alejandro\\desktop\\proyectos net\\sistema ventas web\\apiwebventa\\sistemaventa.negocio\\servicios\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930EA069-71CC-4217-990F-913CFFBC4646}|SistemaVenta.Negocio\\SistemaVenta.Negocio.csproj|solutionrelative:sistemaventa.negocio\\servicios\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{233B31F0-E193-4B05-ADC9-3453E96FEF48}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|c:\\users\\victor alejandro\\desktop\\proyectos net\\sistema ventas web\\apiwebventa\\sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{233B31F0-E193-4B05-ADC9-3453E96FEF48}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|solutionrelative:sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentaService.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Ventas Web\\APIWebVenta\\SistemaVenta.Negocio\\Servicios\\VentaService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Negocio\\Servicios\\VentaService.cs",
+              "ToolTip": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Ventas Web\\APIWebVenta\\SistemaVenta.Negocio\\Servicios\\VentaService.cs",
+              "RelativeToolTip": "SistemaVenta.Negocio\\Servicios\\VentaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T05:46:30.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Ventas Web\\APIWebVenta\\SistemaVenta.Negocio\\Servicios\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Negocio\\Servicios\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Ventas Web\\APIWebVenta\\SistemaVenta.Negocio\\Servicios\\UsuarioService.cs",
+              "RelativeToolTip": "SistemaVenta.Negocio\\Servicios\\UsuarioService.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAcwJMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T05:45:31.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RolService.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Ventas Web\\APIWebVenta\\SistemaVenta.Negocio\\Servicios\\RolService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Negocio\\Servicios\\RolService.cs",
+              "ToolTip": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Ventas Web\\APIWebVenta\\SistemaVenta.Negocio\\Servicios\\RolService.cs",
+              "RelativeToolTip": "SistemaVenta.Negocio\\Servicios\\RolService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T05:44:57.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Ventas Web\\APIWebVenta\\SistemaVenta.Negocio\\Servicios\\ProductoService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Negocio\\Servicios\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Ventas Web\\APIWebVenta\\SistemaVenta.Negocio\\Servicios\\ProductoService.cs",
+              "RelativeToolTip": "SistemaVenta.Negocio\\Servicios\\ProductoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T05:44:05.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Ventas Web\\APIWebVenta\\SistemaVenta.Negocio\\Servicios\\MenuService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Negocio\\Servicios\\MenuService.cs",
+              "ToolTip": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Ventas Web\\APIWebVenta\\SistemaVenta.Negocio\\Servicios\\MenuService.cs",
+              "RelativeToolTip": "SistemaVenta.Negocio\\Servicios\\MenuService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T05:43:21.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Ventas Web\\APIWebVenta\\SistemaVenta.Negocio\\Servicios\\DashboardService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Negocio\\Servicios\\DashboardService.cs",
+              "ToolTip": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Ventas Web\\APIWebVenta\\SistemaVenta.Negocio\\Servicios\\DashboardService.cs",
+              "RelativeToolTip": "SistemaVenta.Negocio\\Servicios\\DashboardService.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAGcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T05:42:20.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Ventas Web\\APIWebVenta\\SistemaVenta.Negocio\\Servicios\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.Negocio\\Servicios\\CategoriaService.cs",
+              "ToolTip": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Ventas Web\\APIWebVenta\\SistemaVenta.Negocio\\Servicios\\CategoriaService.cs",
+              "RelativeToolTip": "SistemaVenta.Negocio\\Servicios\\CategoriaService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T05:41:41.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dependencia.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Ventas Web\\APIWebVenta\\SistemaVenta.IOC\\Dependencia.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.IOC\\Dependencia.cs",
+              "ToolTip": "C:\\Users\\Victor Alejandro\\Desktop\\Proyectos NET\\Sistema Ventas Web\\APIWebVenta\\SistemaVenta.IOC\\Dependencia.cs",
+              "RelativeToolTip": "SistemaVenta.IOC\\Dependencia.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwB8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T05:38:51.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
